@@ -1,16 +1,16 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TesteCOnsole_git
+namespace TesteConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("testando");
+            Console.WriteLine("Exemplo");
             Console.ReadKey();
         }
     }
