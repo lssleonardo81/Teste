@@ -10,7 +10,7 @@ namespace TesteConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Exemplo");
+            Console.WriteLine("Exemplo Teste");
             Console.ReadKey();
         }
     }
